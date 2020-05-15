@@ -13,3 +13,6 @@ Looked more into the library AR-JS is using, known as jsartoolkit5. Followed the
 
 # Thursday May 13th, 2020:
 Managed to learn more about the emscripten tool chain used in the script of ARJS.
+
+# Friday May 14th, 2020:
+Looked more into the code, from reading in WASM, to how the ARController is used.
