@@ -16,3 +16,6 @@ Managed to learn more about the emscripten tool chain used in the script of ARJS
 
 # Friday May 14th, 2020:
 Looked more into the code, from reading in WASM, to how the ARController is used. Also modified the files, creating a HTTPS server with firebase; to see how ARJS works in action, with the help of the console.
+
+# Sunday May 17th, 2020:
+Advanced look into how the camera processes the video, how the camera parameters are set, how the ARController is initialized, and how a single image from the video stream is read. (E.g NFT Marker detection)
