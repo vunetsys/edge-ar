@@ -19,3 +19,6 @@ Looked more into the code, from reading in WASM, to how the ARController is used
 
 # Sunday May 17th, 2020:
 Advanced look into how the camera processes the video, how the camera parameters are set, how the ARController is initialized, and how a single image from the video stream is read. (E.g NFT Marker detection)
+
+# Monday May 18th, 2020:
+Reiterating through all the main components of ARJS. Mainly focused on looking into how to initialize all the values, and how to initialize the video stream, and how to grab an image from the video stream, to process further.
