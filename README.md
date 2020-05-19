@@ -22,3 +22,6 @@ Advanced look into how the camera processes the video, how the camera parameters
 
 # Monday May 18th, 2020:
 Reiterating through all the main components of ARJS. Mainly focused on looking into how to initialize all the values, and how to initialize the video stream, and how to grab an image from the video stream, to process further.
+
+# Tuesday May 19th, 2020:
+Reiterated through all the main components, from video streaming, to marker detection, to the coordinate system of the markers and the transformations. 
