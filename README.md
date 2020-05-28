@@ -25,3 +25,15 @@ Reiterating through all the main components of ARJS. Mainly focused on looking i
 
 # Tuesday May 19th, 2020:
 Reiterated through all the main components, from video streaming, to marker detection, to the coordinate system of the markers and the transformations. 
+
+# Monday May 24th, 2020:
+Learned new components about the ARJS library. To be specific, how the worker blob operates, when processing an image.
+
+# Tuesday May 25th, 2020: 
+Started on documentation about how ARJS works.
+
+# Wednesdya May 26th, 2020:
+Finished documentation on ARJS. Brainstorm about server implementation
+
+# Thursday May 27th, 2020:
+Created Class diagrams, of two possible implementations for client-server interaction.
