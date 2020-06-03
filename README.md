@@ -37,3 +37,14 @@ Finished documentation on ARJS. Brainstorm about server implementation
 
 # Thursday May 27th, 2020:
 Created Class diagrams, of two possible implementations for client-server interaction.
+
+
+# Sunday May 30th, 2020:
+Work on a simple RTC client which takes pictures and stores them as base64.
+Read up GRPC documentation, get familiar with protocol buffers
+
+# Monday June 1st, 2020:
+Try to implement the GRPC server on the simple RTC client
+
+# Tuesday June 2nd, 2020:
+Go through the GRPC basics, simple Hello World Server, research on browser HTTP support for GRPC.
