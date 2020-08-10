@@ -2,7 +2,7 @@
 
 # How to run
 
-1] Go to the build folder
+1] Go to the public/aframe folder
 
 2] Open a Linux command line in that folder
 
